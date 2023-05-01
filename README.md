@@ -18,12 +18,12 @@ Browse to https://mycomplex.github.io/c1_sweet-eagle-orbit/ to review the improv
 ## Before and After Screenshots
 
 <figure>
-    <img src="./assets/images/before.png" alt="A screenshot of the Horiseon website before improvements were made."/>
+    <img src="./assets/images/before.png" alt="A screenshot of the Horiseon website before improvements were made." width="400px"/>
     <figcaption>Before Improvements</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="./assets/images/after.jpg" alt="A screenshot of the Horiseon website after improvements were made."/>
+    <img src="./assets/images/after.jpg" alt="A screenshot of the Horiseon website after improvements were made." width="400px"/>
     <figcaption>After Improvements</figcaption>
 </figure>
 
