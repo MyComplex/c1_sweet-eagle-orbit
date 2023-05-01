@@ -23,7 +23,7 @@ Browse to https://mycomplex.github.io/c1_sweet-eagle-orbit/ to review the improv
 </figure>
 <br>
 <figure>
-    <img src="./assets/images/after.jpg" alt="A screenshot of the Horiseon website after improvements were made." width="400px"/>
+    <img src="./assets/images/after.png" alt="A screenshot of the Horiseon website after improvements were made." width="400px"/>
     <figcaption>After Improvements</figcaption>
 </figure>
 
