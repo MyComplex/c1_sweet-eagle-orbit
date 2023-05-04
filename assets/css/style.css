@@ -4,15 +4,6 @@
     margin: 0;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 body {
     background-color: #d9dcd6;
 }
@@ -29,10 +20,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* changed the "seo" class to the "strong" tag element selector for semantic standards */
 header h1 strong {
     color: #d9dcd6;
 }
 
+/* changed from "div" to "nav" tag element selector for semantic standards on the folowing three selectors */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,11 +43,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* changed the "hero" class selector to "main img" semantic element tag selector */
 main img {
     width: 100%;
     margin-bottom: 25px;
 }
 
+/* changed from "div" to "section" and "article" tag element selectors for semantic standards and consolidated the content classes under the "article" selector */
 section {
     width: 75%;
     display: inline-block;
@@ -74,6 +74,10 @@ section article img {
     max-height: 200px;
 }
 
+p {
+    font-size: 16px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -88,7 +92,7 @@ section article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed from "div" to "aside" and "article" tag element selectors for semantic standards and consolidated the benefit classes under the "article" selector */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -123,6 +127,7 @@ footer {
     text-align: center;
 }
 
+/* changed from h2 to h4 */
 footer h4 {
     font-size: 20px;
 }
