@@ -1,4 +1,4 @@
-# Horiseon Website Rework
+# Horiseon Website Refactor
 
 ## Table of Contents
 
